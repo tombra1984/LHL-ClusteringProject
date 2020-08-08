@@ -28,13 +28,12 @@ We will be using old data about different financial transactions. You can downlo
 
 In this miniproject, we will:
 
-1.  create two separate customer segmentations to split them into 3-5 clusters: based on demographics (only on the information from twm_customer) and based on their banking behavior. We can take following things into consideration as banking behavior:
-    - do they have savings account? How much do they save?
-    - do they have credit account? How much do they live in debt?
-    - are they making lot of small transactions or few huge ones?
-2. visualize the created clusters using [radar charts](https://plotly.com/python/radar-chart/) and compare agains each other
-3. visualize segmentation using scatter plot. We will have to use PCA to be able to plot our observations in 2D.
-4. visualize in 2D how are our clusters evolving in each iteration of KMeans (for at least 20 iterations).
-
-
-
+1.  create two separate customer segmentations (using clustering) to split them into 3-5 clusters: 
+    - based on demographics (only on the information from twm_customer)
+    - based on their banking behavior. We can take following things into consideration as banking behavior:
+        - do they have savings account? How much do they save?
+        - do they have credit account? How much do they live in debt?
+        - are they making lot of small transactions or few huge ones?
+2. visualize the created clusters using [radar charts](https://plotly.com/python/radar-chart/) and compare them agains each other
+3. visualize segmentations using scatter plot. We will have to use PCA to be able to plot our observations in 2D.
+4. visualize in 2D how our clusters are evolving in each iteration of KMeans (for at least 20 iterations).
