@@ -1,5 +1,5 @@
 # mini-project-III
-This project uses bank customer informations to identify the different types of customers and how they behaviours finacially.
+This project uses bank customer informations to identify the different types of customers and how they behave finacially.
 
 
 ### Topics
