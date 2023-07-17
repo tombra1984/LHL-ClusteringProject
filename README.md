@@ -1,5 +1,5 @@
 # mini-project-III
-Repo with the instructions for the Mini Project III.
+This project uses bank customer informations to identify the different types of customers and how they behaviours finacially.
 
 
 ### Topics
